@@ -70,9 +70,9 @@ const MultiOptionHighlight = () => {
                 </div>
 
                 <div className="prviewSection">
-                <iframe src="https://www.youtube.com/embed/t4b_2-Av3QI?list=PLpzDnEqPoRafHOEaTrbXbbrdDfnOlVmWL" title="Kanmaniye Video Song | Parakramam | Dev Mohan | Sona Olickal | Kapil Kapilan |Anoop Nirichan |Arjun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+                <iframe  src="https://www.youtube.com/embed/DnRUXyJpPYQ" title="Parakramam Official Teaser | Arjun Ramesh | Dev Mohan | Siju Sunny | Sona Olickal | Amith Mohan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <iframe src="https://www.youtube.com/embed/FA9-tx2Yftk" title="Parakramam Official Trailer | Arjun Ramesh | Dev Mohan | Siju Sunny | Sona Olickal | Amith Mohan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe className='theExtraOne' src="https://www.youtube.com/embed/t4b_2-Av3QI?list=PLpzDnEqPoRafHOEaTrbXbbrdDfnOlVmWL" title="Kanmaniye Video Song | Parakramam | Dev Mohan | Sona Olickal | Kapil Kapilan |Anoop Nirichan |Arjun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
 
 

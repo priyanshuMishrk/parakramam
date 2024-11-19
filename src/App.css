@@ -138,12 +138,14 @@
   display: flex;
   margin-top: 2vw;
   gap: 2vw;
+  flex-wrap: wrap;
+  margin-bottom: 15vw;
 }
 
 .prviewSection iframe {
   width: 40vw;
   height: 22vw;
-  margin-bottom: 15vw;
+  /* margin-bottom: 15vw; */
 }
 
 .playerSection {
@@ -200,7 +202,23 @@
   font-family: Condensed;
 }
 
+
+.theExtraOne{
+  width: 70vw !important;
+  /* align-self: center; */
+  justify-self: center;
+  margin-left: 7%;
+  height: 42vw !important;
+}
+
+.prviewSection iframe:nth-child(3){
+  width: 70vw;
+}
+
 @media (max-width: 450px) {
+  .theExtraOne {
+    margin-left: 0%;
+}
   .storySection {
     display: flex;
     margin-bottom: 15vw;
@@ -238,9 +256,9 @@
 }
 
 .prviewSection iframe {
-  width: 70vw;
-  height: 58vw;
-  margin-bottom: 5vw;
+  width: 70vw !important;
+  height: 58vw !important;
+  margin-bottom: 5vw !important;
 }
 
 .playerSection {
