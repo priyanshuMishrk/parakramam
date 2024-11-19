@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import image from '../Images/Parakramam Web 01-01.jpg'
+import image from '../Images/Parakramam Web 01-01 (1).jpg'
 import secondPeople from '../Images/someSummary.png'
 import joemon from '../Images/joemon.png'
 import arjun from '../Images/arjun.png'
