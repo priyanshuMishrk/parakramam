@@ -70,7 +70,7 @@ const MultiOptionHighlight = () => {
                 </div>
 
                 <div className="prviewSection">
-                    <iframe src="https://www.youtube.com/embed/DnRUXyJpPYQ" title="Parakramam Official Teaser | Arjun Ramesh | Dev Mohan | Siju Sunny | Sona Olickal | Amith Mohan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/t4b_2-Av3QI?list=PLpzDnEqPoRafHOEaTrbXbbrdDfnOlVmWL" title="Kanmaniye Video Song | Parakramam | Dev Mohan | Sona Olickal | Kapil Kapilan |Anoop Nirichan |Arjun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
                     <iframe src="https://www.youtube.com/embed/FA9-tx2Yftk" title="Parakramam Official Trailer | Arjun Ramesh | Dev Mohan | Siju Sunny | Sona Olickal | Amith Mohan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
@@ -85,7 +85,9 @@ const MultiOptionHighlight = () => {
                         <div className="people">
                             <div className="imgCont">
                                 <img src={devMohan} alt="" />
-                                <img src={imdb} alt="" />
+                                <img src={imdb} onClick={() => {
+                                    handleDivClick('https://www.imdb.com/name/nm11701991/?ref_=tt_cl_t_3')
+                                }} alt="" />
                             </div>
 
                             <div className="textContainer">
@@ -137,7 +139,9 @@ const MultiOptionHighlight = () => {
                         <div className="people">
                             <div className="imgCont">
                                 <img src={sangeetha} alt="" />
-                                <img src={imdb} alt="" />
+                                <img src={imdb} onClick={() => {
+                                    handleDivClick('https://www.imdb.com/name/nm0762660/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_sangeetha%2520nair')
+                                }} alt="" />
                             </div>
 
                             <div className="textContainer">
@@ -177,7 +181,9 @@ const MultiOptionHighlight = () => {
                         <div className="people">
                             <div className="imgCont">
                                 <img src={sona} alt="" />
-                                <img src={imdb} alt="" />
+                                <img src={imdb} onClick={() => {
+                                    handleDivClick('https://www.imdb.com/name/nm13564781/?ref_=fn_al_nm_1')
+                                }} alt="" />
                             </div>
 
                             <div className="textContainer">
@@ -275,7 +281,9 @@ const MultiOptionHighlight = () => {
                         <div className="people">
                             <div className="imgCont">
                                 <img src={siju} alt="" />
-                                <img src={imdb} alt="" />
+                                <img src={imdb} onClick={() => {
+                                    handleDivClick('https://www.imdb.com/name/nm12998937/?ref_=fn_al_nm_1')
+                                }} alt="" />
                             </div>
 
                             <div className="textContainer">
@@ -310,7 +318,9 @@ const MultiOptionHighlight = () => {
                         <div className="people">
                             <div className="imgCont">
                                 <img src={renji} alt="" />
-                                <img src={imdb} alt="" />
+                                <img src={imdb} onClick={()=> {
+                                    handleDivClick('https://www.imdb.com/name/nm1001625/?ref_=nv_sr_srsg_0_tt_1_nm_4_in_0_q_RENJI%2520PANICKER')
+                                }} alt="" />
                             </div>
 
                             <div className="textContainer">
@@ -344,7 +354,9 @@ const MultiOptionHighlight = () => {
                         <div className="people">
                             <div className="imgCont">
                                 <img src={joemon} alt="" />
-                                <img src={imdb} alt="" />
+                                <img src={imdb} onClick={()=> {
+                                    handleDivClick('https://m.imdb.com/name/nm11593017/')
+                                }} alt="" />
                             </div>
 
                             <div className="textContainer">
