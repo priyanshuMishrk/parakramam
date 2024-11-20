@@ -70,7 +70,7 @@ const MultiOptionHighlight = () => {
                 </div>
 
                 <div className="prviewSection">
-                <iframe  src="https://www.youtube.com/embed/DnRUXyJpPYQ" title="Parakramam Official Teaser | Arjun Ramesh | Dev Mohan | Siju Sunny | Sona Olickal | Amith Mohan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/DnRUXyJpPYQ" title="Parakramam Official Teaser | Arjun Ramesh | Dev Mohan | Siju Sunny | Sona Olickal | Amith Mohan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <iframe src="https://www.youtube.com/embed/FA9-tx2Yftk" title="Parakramam Official Trailer | Arjun Ramesh | Dev Mohan | Siju Sunny | Sona Olickal | Amith Mohan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <iframe src="https://www.youtube.com/embed/t4b_2-Av3QI?list=PLpzDnEqPoRafHOEaTrbXbbrdDfnOlVmWL" title="Kanmaniye Video Song | Parakramam | Dev Mohan | Sona Olickal | Kapil Kapilan |Anoop Nirichan |Arjun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <iframe src="https://www.youtube.com/embed/ZqDvjZddpeE" title="Neeyen Video Song | Parakramam | Dev Mohan | Sona Olickal | Anoop Nirichan | Arjun Ramesh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -163,7 +163,6 @@ const MultiOptionHighlight = () => {
                                     imagination of the Malayali audience with her breathtaking
                                     performance in
                                     '<b>
-
                                         Chinthavishtayaya Shyamala
                                     </b>'
                                     . In our project
@@ -299,14 +298,28 @@ const MultiOptionHighlight = () => {
                                 </div>
 
                                 <div className="summarCont">
-                                Siju is one of those rare young actors who can effortlessly switch between humor and emotional depth. Rising to prominence with the blockbuster horror comedy Romancham and his memorable role in Vaazha, Siju has become a household name in Malayalam cinema. Now, he's set to shine in the Prithviraj-starrer Guruvayoor Ambalanadayil, taking on a prominent role that promises to captivate audiences.
+                                    Siju is one of those rare young actors who can effortlessly switch between humor and emotional depth. Rising to prominence with the blockbuster horror comedy 
+                                    '<b>
+                                        
+                                    Romancham
+                                    </b>'
+                                     and his memorable role in 
+                                     '<b>
+                                     Vaazha
+                                    </b>'
+                                     , Siju has become a household name in Malayalam cinema. Now, he's set to shine in the Prithviraj-starrer 
+                                     '<b>
+                                        
+                                     Guruvayoor Ambalanadayil
+                                    </b>'
+                                     , taking on a prominent role that promises to captivate audiences.
                                 </div>
                             </div>
                         </div>
                         <div className="people">
                             <div className="imgCont">
                                 <img src={renji} alt="" />
-                                <img src={imdb} onClick={()=> {
+                                <img src={imdb} onClick={() => {
                                     handleDivClick('https://www.imdb.com/name/nm1001625/?ref_=nv_sr_srsg_0_tt_1_nm_4_in_0_q_RENJI%2520PANICKER')
                                 }} alt="" />
                             </div>
@@ -342,7 +355,7 @@ const MultiOptionHighlight = () => {
                         <div className="people">
                             <div className="imgCont">
                                 <img src={joemon} alt="" />
-                                <img src={imdb} onClick={()=> {
+                                <img src={imdb} onClick={() => {
                                     handleDivClick('https://m.imdb.com/name/nm11593017/')
                                 }} alt="" />
                             </div>
@@ -359,7 +372,16 @@ const MultiOptionHighlight = () => {
                                 </div>
 
                                 <div className="summarCont">
-                                Joemon Jyothir is a rising star in the Malayalam film industry, celebrated for his effortless charm and magnetic screen presence. He first caught the audience’s attention with his standout performance in Romancham, where his impeccable timing and natural flair left a lasting impression. With hits like Vaazha under his belt, Joemon continues to cement his position as one of the most promising young talents in the industry.
+                                    Joemon Jyothir is a rising star in the Malayalam film industry, celebrated for his effortless charm and magnetic screen presence. He first caught the audience’s attention with his standout performance in 
+                                    '<b>
+                                    Romancham
+                                    </b>'
+                                    , where his impeccable timing and natural flair left a lasting impression. With hits like 
+                                    '<b>
+                                    
+                                    Vaazha
+                                    </b>'
+                                     under his belt, Joemon continues to cement his position as one of the most promising young talents in the industry.
                                 </div>
                             </div>
                         </div>
