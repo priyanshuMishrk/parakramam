@@ -203,22 +203,9 @@
 }
 
 
-.theExtraOne{
-  width: 70vw !important;
-  /* align-self: center; */
-  justify-self: center;
-  margin-left: 7%;
-  height: 42vw !important;
-}
 
-.prviewSection iframe:nth-child(3){
-  width: 70vw;
-}
 
 @media (max-width: 450px) {
-  .theExtraOne {
-    margin-left: 0%;
-}
   .storySection {
     display: flex;
     margin-bottom: 15vw;

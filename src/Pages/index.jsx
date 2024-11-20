@@ -72,7 +72,8 @@ const MultiOptionHighlight = () => {
                 <div className="prviewSection">
                 <iframe  src="https://www.youtube.com/embed/DnRUXyJpPYQ" title="Parakramam Official Teaser | Arjun Ramesh | Dev Mohan | Siju Sunny | Sona Olickal | Amith Mohan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <iframe src="https://www.youtube.com/embed/FA9-tx2Yftk" title="Parakramam Official Trailer | Arjun Ramesh | Dev Mohan | Siju Sunny | Sona Olickal | Amith Mohan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <iframe className='theExtraOne' src="https://www.youtube.com/embed/t4b_2-Av3QI?list=PLpzDnEqPoRafHOEaTrbXbbrdDfnOlVmWL" title="Kanmaniye Video Song | Parakramam | Dev Mohan | Sona Olickal | Kapil Kapilan |Anoop Nirichan |Arjun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/t4b_2-Av3QI?list=PLpzDnEqPoRafHOEaTrbXbbrdDfnOlVmWL" title="Kanmaniye Video Song | Parakramam | Dev Mohan | Sona Olickal | Kapil Kapilan |Anoop Nirichan |Arjun" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/ZqDvjZddpeE" title="Neeyen Video Song | Parakramam | Dev Mohan | Sona Olickal | Anoop Nirichan | Arjun Ramesh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
 
 
@@ -298,20 +299,7 @@ const MultiOptionHighlight = () => {
                                 </div>
 
                                 <div className="summarCont">
-                                    Siju is one of those rare young actors who can handle both humor
-                                    and emotional roles with aplomb. He rose to prominence with the
-                                    blockbuster horror comedy
-                                    '<b>
-
-                                        Romancham
-                                    </b>'
-                                    and is now essaying a
-                                    prominent role in the Prithviraj-starrer
-                                    '<b>
-
-                                        Guruvayoor Ambalanadayil
-                                    </b>'
-                                    .
+                                Siju is one of those rare young actors who can effortlessly switch between humor and emotional depth. Rising to prominence with the blockbuster horror comedy Romancham and his memorable role in Vaazha, Siju has become a household name in Malayalam cinema. Now, he's set to shine in the Prithviraj-starrer Guruvayoor Ambalanadayil, taking on a prominent role that promises to captivate audiences.
                                 </div>
                             </div>
                         </div>
@@ -371,16 +359,7 @@ const MultiOptionHighlight = () => {
                                 </div>
 
                                 <div className="summarCont">
-                                    Joemon Jyothir is a rising star in the Malayalam film industry, cele- brated for his effortless charm and magnetic screen presence. He
-                                    first caught the audience’s attention with his standout performance
-                                    in the blockbuster horror comedy
-                                    '<b>
-
-                                        Romancham
-                                    </b>'
-
-
-                                    , where his impecca- ble timing and natural flair left a lasting impression.
+                                Joemon Jyothir is a rising star in the Malayalam film industry, celebrated for his effortless charm and magnetic screen presence. He first caught the audience’s attention with his standout performance in Romancham, where his impeccable timing and natural flair left a lasting impression. With hits like Vaazha under his belt, Joemon continues to cement his position as one of the most promising young talents in the industry.
                                 </div>
                             </div>
                         </div>
