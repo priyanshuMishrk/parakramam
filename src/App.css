@@ -71,11 +71,11 @@
 }
 
 .linker1FB {
-  position: absolute;
+  position: fixed;
   width: 4%;
   height: 3%;
-  bottom: 2vw;
-  left: 42%;
+  bottom: 3vw;
+  left: 80%;
 }
 
 .linker2Istg {
@@ -284,4 +284,40 @@
 }
 
 
+}
+
+.fixedIconSwage {
+  position: fixed;
+  right: 2vw;
+  bottom: -3vw;  
+  z-index: 222;
+}
+
+.fixedIconSwage img {
+  width: 20vw;
+  height: 14vw;
+}
+
+.linker1FB {
+  position: fixed;
+  width: 5%;
+  height: 9%;
+  bottom: 2vw;
+  left: 79%;
+}
+
+.linker2Istg {
+  position: fixed;
+  width: 5%;
+  height: 9%;
+  bottom: 2vw;
+  left: 86%;
+}
+
+.linker3YTB {
+  position: fixed;
+  width: 5%;
+  height: 9%;
+  bottom: 2vw;
+  left: 92%;
 }

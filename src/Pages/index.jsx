@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import image from '../Images/Parakramam Web 01-01 (1).jpg'
+import image from '../Images/impMain.jpg'
 import secondPeople from '../Images/someSummary.png'
 import joemon from '../Images/joemon.png'
 import arjun from '../Images/arjun.png'
@@ -10,6 +10,7 @@ import renji from '../Images/renji.png'
 import harrish from '../Images/harrish.png'
 import devMohan from '../Images/devMohan.png'
 import imdb from '../Images/imdb.png'
+import socialIcons from '../Images/SM-icons.png'
 
 const MultiOptionHighlight = () => {
 
@@ -19,8 +20,9 @@ const MultiOptionHighlight = () => {
 
     return (
         <>
-            <div className="imageParent">
-                <div className='linker1FB cp' onClick={() => {
+        <div className="fixedIconSwage">
+            <img src={socialIcons} alt="notsure" />
+            <div className='linker1FB cp' onClick={() => {
                     handleDivClick('https://www.facebook.com/ParakramamMovie/')
                 }}></div>
                 <div className='linker2Istg cp'
@@ -32,7 +34,22 @@ const MultiOptionHighlight = () => {
                     onClick={() => {
                         handleDivClick('https://www.youtube.com/@ParakramamMovie')
                     }}
+                ></div> 
+        </div>
+            <div className="imageParent">
+                {/* <div className='linker1FB cp' onClick={() => {
+                    handleDivClick('https://www.facebook.com/ParakramamMovie/')
+                }}></div>
+                <div className='linker2Istg cp'
+                    onClick={() => {
+                        handleDivClick('https://www.instagram.com/p/CwO1druJTnH/?hl=en')
+                    }}
                 ></div>
+                <div className='linker3YTB cp'
+                    onClick={() => {
+                        handleDivClick('https://www.youtube.com/@ParakramamMovie')
+                    }}
+                ></div> */}
 
                 <img className='theHeroSection' src={image} alt="" />
             </div>

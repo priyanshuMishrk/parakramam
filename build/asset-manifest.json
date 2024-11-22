@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d9ef8dc2.css",
-    "main.js": "/static/js/main.9deeb3cf.js",
+    "main.css": "/static/css/main.6eb6d3c3.css",
+    "main.js": "/static/js/main.2c08c6dc.js",
     "static/js/453.060c4294.chunk.js": "/static/js/453.060c4294.chunk.js",
+    "static/media/impMain.jpg": "/static/media/impMain.1eec005dd18a5cba0e64.jpg",
     "static/media/finallyBcg.png": "/static/media/finallyBcg.f9f72960503f621e4ad7.png",
-    "static/media/Parakramam Web 01-01 (1).jpg": "/static/media/Parakramam Web 01-01 (1).8484b81cf672dbd8c321.jpg",
     "static/media/someSummary.png": "/static/media/someSummary.c07b78e24eb2fecc114a.png",
     "static/media/arjun.png": "/static/media/arjun.32d17db3bc9be28dca9a.png",
     "static/media/FRADM.TTF": "/static/media/FRADM.afd01b7c63c3f2710c4e.TTF",
@@ -19,15 +19,16 @@
     "static/media/devMohan.png": "/static/media/devMohan.fa599d9a2c36f2a1fdec.png",
     "static/media/GothamBook.ttf": "/static/media/GothamBook.58fb9151c57e59668f17.ttf",
     "static/media/siju.png": "/static/media/siju.eecc57e4856030d00bfc.png",
+    "static/media/SM-icons.png": "/static/media/SM-icons.ae60b133ae7aea713940.png",
     "static/media/CCUpUpAndAway.otf": "/static/media/CCUpUpAndAway.a18f726c3ceee7c10151.otf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.d9ef8dc2.css.map": "/static/css/main.d9ef8dc2.css.map",
-    "main.9deeb3cf.js.map": "/static/js/main.9deeb3cf.js.map",
+    "main.6eb6d3c3.css.map": "/static/css/main.6eb6d3c3.css.map",
+    "main.2c08c6dc.js.map": "/static/js/main.2c08c6dc.js.map",
     "453.060c4294.chunk.js.map": "/static/js/453.060c4294.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9ef8dc2.css",
-    "static/js/main.9deeb3cf.js"
+    "static/css/main.6eb6d3c3.css",
+    "static/js/main.2c08c6dc.js"
   ]
 }
