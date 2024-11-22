@@ -32,7 +32,7 @@ const MultiOptionHighlight = () => {
                 ></div>
                 <div className='linker3YTB cp'
                     onClick={() => {
-                        handleDivClick('https://www.youtube.com/@ParakramamMovie')
+                        handleDivClick('https://m.youtube.com/@ParakramamMovie/shorts')
                     }}
                 ></div> 
         </div>

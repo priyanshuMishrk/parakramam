@@ -294,30 +294,30 @@
 }
 
 .fixedIconSwage img {
-  width: 20vw;
-  height: 14vw;
+  width: 16vw;
+  height: 12vw;
 }
 
 .linker1FB {
   position: fixed;
-  width: 5%;
-  height: 9%;
+  width: 3%;
+  height: 7%;
   bottom: 2vw;
-  left: 79%;
+  left: 83%;
 }
 
 .linker2Istg {
   position: fixed;
-  width: 5%;
-  height: 9%;
+  width: 3%;
+  height: 7%;
   bottom: 2vw;
-  left: 86%;
+  left: 88.5%;
 }
 
 .linker3YTB {
   position: fixed;
-  width: 5%;
-  height: 9%;
+  width: 3%;
+  height: 7%;
   bottom: 2vw;
-  left: 92%;
+  left: 93.5%;
 }
