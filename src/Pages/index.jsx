@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import image from '../Images/impMain.jpg'
-import secondPeople from '../Images/someSummary.png'
+import secondPeople from '../Images/newLast.jpeg'
 import joemon from '../Images/joemon.png'
 import arjun from '../Images/arjun.png'
 import siju from '../Images/siju.png'
@@ -27,7 +27,7 @@ const MultiOptionHighlight = () => {
                 }}></div>
                 <div className='linker2Istg cp'
                     onClick={() => {
-                        handleDivClick('https://www.instagram.com/p/CwO1druJTnH/?hl=en')
+                        handleDivClick('https://www.instagram.com/parakramammovie?igsh=MTY0bXp4bHp6NXdhZQ==')
                     }}
                 ></div>
                 <div className='linker3YTB cp'
